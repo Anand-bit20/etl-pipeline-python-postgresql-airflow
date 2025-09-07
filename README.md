@@ -124,7 +124,7 @@ Containerization: Achieved environment consistency using Docker.
 
 📄 Documentation
 
-For a detailed walkthrough of the project, refer to the Medium article
+For a detailed walkthrough of the project, refer to the Medium article: https://shorturl.at/roXhM
 
 📸 Visuals
 
